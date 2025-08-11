@@ -1,4 +1,5 @@
-#💰 Expense / Money Tracker
+## Expense / Money Tracker
+
 A simple web app to track your income and expenses. Built using **HTML**, **CSS**, and **JavaScript** with a **Pie Chart** for visualizing expenses by category.
 
 ## 🚀 Features
